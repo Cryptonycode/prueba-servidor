@@ -1,3 +1,5 @@
+require('dotenv').config(); // 👈 AÑADIDO
+
 const express = require('express');
 const app = express();
 
